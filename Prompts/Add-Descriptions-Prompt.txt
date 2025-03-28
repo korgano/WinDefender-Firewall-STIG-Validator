@@ -1,0 +1,21 @@
+Add new column Description to CSV at the end, with the following values:
+V-241989: Windows Defender Firewall must be enabled when connected to a domain.
+V-241990: Windows Defender Firewall must be enabled when connected to a private network.
+V-241991: Windows Defender Firewall must be enabled when connected to a public network.
+V-241992: Windows Defender Firewall must block unsolicited inbound connections when connected to a domain.
+V-241993: Windows Defender Firewall must allow outbound connections, unless explicitly blocked by rule.
+V-241994: Windows Defender Firewall log size must be configured for domain connections.
+V-241995: Windows Defender Firewall must log dropped packets when connected to a domain.
+V-241996: Windows Defender Firewall must log successful connections when connected to a domain.
+V-241997: Windows Defender Firewall must block unsolicited inbound connections when connected to a private network.
+V-241998: Windows Defender Firewall must allow outbound connections on a private network, unless explicitly blocked by rule.
+V-241999: Windows Defender Firewall log size must be configured for private network connections.
+V-242000: Windows Defender Firewall must log dropped packets when connected to a private network.
+V-242001: Windows Defender Firewall must log successful connections when connected to a private network.
+V-242002: Windows Defender Firewall must block unsolicited inbound connections when connected to a public network.
+V-242003: Windows Defender Firewall must allow outbound connections on a public network, unless explicitly blocked by rule.
+V-242004: Windows Defender Firewall public network connections must not merge local firewall rules with Group policy settings.
+V-242005: Windows Defender Firewall public network connections must not merge local connection rules with Group policy settings.
+V-242006: Windows Defender Firewall log size must be configured for public connections.
+V-242007: Windows Defender Firewall must log dropped packets when connected to a public network.
+V-242008: Windows Defender Firewall must log successful connections when connected to a public network.
