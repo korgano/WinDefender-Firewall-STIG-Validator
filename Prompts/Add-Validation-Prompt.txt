@@ -1,0 +1,4 @@
+Update script to do the following:
+-Log if command has been granted permissions to execute
+-Validate that the settings have been properly updated
+-If settings have not been properly updated, set corrected value to False, and log correction failure
